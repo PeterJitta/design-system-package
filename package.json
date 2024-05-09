@@ -1,9 +1,9 @@
 {
 	"name": "design-system-package",
 	"private": false,
-	"version": "0.0.7",
+	"version": "0.0.9",
 	"type": "module",
-	"main": "dist/index.ts",
+	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"files": [
 		"dist"
@@ -17,10 +17,10 @@
 	},
 	"dependencies": {
 		"react": "^18.2.0",
-		"react-dom": "^18.2.0",
-		"rollup-plugin-dts": "^6.1.0"
+		"react-dom": "^18.2.0"
 	},
 	"devDependencies": {
+		"rollup-plugin-dts": "^6.1.0",
 		"@rollup/plugin-inject": "^5.0.5",
 		"@rollup/plugin-typescript": "^11.1.6",
 		"@rollup/plugin-url": "^8.0.2",
