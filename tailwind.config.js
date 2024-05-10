@@ -1,5 +1,9 @@
 /** @type {import('tailwindcss').Config} */
-import baseColor from "./src/style/color"
+
+import { filterTokensByType } from "./fns";
+import tokens from "./dist/build/tailwind/global.json"
+
+const colors = filterTokensByType('color', tokens)
 
 export default {
   content: [
@@ -9,7 +13,7 @@ export default {
   theme: {
     extend: {
 			colors: {
-				...baseColor
+				...colors
 			}
 		},
   },
