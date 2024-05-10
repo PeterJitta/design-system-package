@@ -1,0 +1,274 @@
+{
+	"neutral": {
+		"50": {
+			"value": "#fafafa",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"100": {
+			"value": "#f9fafb",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"200": {
+			"value": "#e9eef5",
+			"type": "color",
+			"description": "catskillwhite",
+			"parent": "Base Color/Mode 1"
+		},
+		"300": {
+			"value": "#d4dce6",
+			"type": "color",
+			"description": "gaySer",
+			"parent": "Base Color/Mode 1"
+		},
+		"400": {
+			"value": "#c8cdd4",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"500": {
+			"value": "#8da2b9",
+			"type": "color",
+			"description": "baliHai",
+			"parent": "Base Color/Mode 1"
+		},
+		"600": {
+			"value": "#475569",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"700": {
+			"value": "#2f4259",
+			"type": "color",
+			"description": "pickledBluewood",
+			"parent": "Base Color/Mode 1"
+		},
+		"800": {
+			"value": "#1e293b",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"900": {
+			"value": "#171717",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"950": {
+			"value": "#0a0a0a",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"black": {
+			"value": "#000000",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"white": {
+			"value": "#ffffff",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		}
+	},
+	"opacity": {
+		"backdrop-10": {
+			"value": "#0000001a",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"transparent": {
+			"value": "#ffffff00",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		}
+	},
+	"color": {
+		"bitterSweet": {
+			"value": "#fd726d",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"jittaBlue": {
+			"value": "#47c6f1",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"selectiveYellow": {
+			"value": "#ffcf61",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"warningYellow": {
+			"value": "#ffdb88",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		}
+	},
+	"chart": {
+		"color1": {
+			"value": "#faea23",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color2": {
+			"value": "#6abe45",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color3": {
+			"value": "#31a366",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color4": {
+			"value": "#1e91ca",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color5": {
+			"value": "#2d58a7",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color6": {
+			"value": "#174291",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color7": {
+			"value": "#e11052",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color8": {
+			"value": "#f05632",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color9": {
+			"value": "#ff9d22",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color10": {
+			"value": "#fdb928",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color11": {
+			"value": "#800080",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"color12": {
+			"value": "#ff0000",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		}
+	},
+	"wealthGreen": {
+		"50": {
+			"value": "#f2fffd",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"100": {
+			"value": "#c9fff5",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"200": {
+			"value": "#8effeb",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"300": {
+			"value": "#46ffdf",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"400": {
+			"value": "#0ef6d0",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"500": {
+			"value": "#00d1b2",
+			"type": "color",
+			"description": "jittaWealthGreen",
+			"parent": "Base Color/Mode 1"
+		},
+		"600": {
+			"value": "#00c5ac",
+			"type": "color",
+			"description": "caribbeanGreen",
+			"parent": "Base Color/Mode 1"
+		},
+		"700": {
+			"value": "#00a390",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"800": {
+			"value": "#08877a",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"900": {
+			"value": "#0e7166",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		},
+		"950": {
+			"value": "#00534f",
+			"type": "color",
+			"description": "",
+			"parent": "Base Color/Mode 1"
+		}
+	},
+	"$themes": [],
+	"$metadata": {
+		"tokenSetOrder": [
+			"neutral",
+			"opacity",
+			"color",
+			"chart",
+			"wealthGreen"
+		]
+	}
+}

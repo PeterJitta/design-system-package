@@ -18,11 +18,11 @@ export default {
 ],
   plugins: [
     typescript(),
-    copy({
-      targets: [
-        { src: 'src/assets/*', dest: 'dist' }
-      ]
-    }),
+    // copy({
+    //   targets: [
+    //     { src: 'src/assets/*', dest: 'dist' }
+    //   ]
+    // }),
 		 url({
       include: ['**/*.svg', '**/*.png'], // Specify the file types to handle
       limit: Infinity, // Encode all files as data URIs (remove for URLs)

@@ -1,0 +1,346 @@
+{
+	"text": {
+		"normal": {
+			"value": "{neutral.700}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"primary": {
+			"value": "{wealthGreen.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"dim": {
+			"value": "{neutral.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"disabled": {
+			"value": "{neutral.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"danger": {
+			"value": "{color.bitterSweet}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"success": {
+			"value": "{wealthGreen.600}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"link": {
+			"value": "{wealthGreen.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"info": {
+			"value": "{color.jittaBlue}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		}
+	},
+	"border": {
+		"normal": {
+			"value": "{neutral.300}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"input": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"input-hover": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"input-focus": {
+			"value": "{wealthGreen.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"danger": {
+			"value": "{color.bitterSweet}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"hover": {
+			"value": "{neutral.300}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"disabled": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"dim": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"focus": {
+			"value": "{wealthGreen.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"primary": {
+			"value": "{wealthGreen.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"line": {
+			"value": "{neutral.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"graph": {
+			"value": "{color.jittaBlue}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		}
+	},
+	"icon": {
+		"normal": {
+			"value": "{neutral.700}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"disabled": {
+			"value": "{neutral.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"primary": {
+			"value": "{wealthGreen.600}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"info": {
+			"value": "{color.jittaBlue}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"success": {
+			"value": "{wealthGreen.600}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"danger": {
+			"value": "{color.bitterSweet}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"warning": {
+			"value": "{color.selectiveYellow}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"on-color": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"dim": {
+			"value": "{neutral.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		}
+	},
+	"bg-surface": {
+		"normal": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"input": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"input-hover": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"input-focus": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"hover": {
+			"value": "{neutral.100}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"focus": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"selected": {
+			"value": "{wealthGreen.50}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"disabled": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"dim": {
+			"value": "{neutral.100}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"input-disabled": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		}
+	},
+	"bg-fill": {
+		"normal": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"selected": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"disabled": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"primary": {
+			"value": "{wealthGreen.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"danger": {
+			"value": "{color.bitterSweet}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"success": {
+			"value": "{wealthGreen.600}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"loading": {
+			"value": "{neutral.200}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"dim": {
+			"value": "{neutral.50}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		}
+	},
+	"text-on": {
+		"primary": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"disabled": {
+			"value": "{neutral.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"success": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"danger": {
+			"value": "{neutral.white}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		}
+	},
+	"gradient": {
+		"left": {
+			"value": "{color.jittaBlue}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		},
+		"right": {
+			"value": "{wealthGreen.500}",
+			"type": "color",
+			"description": "",
+			"parent": "Semantic Color/Mode 1"
+		}
+	},
+	"$themes": [],
+	"$metadata": {
+		"tokenSetOrder": [
+			"text",
+			"border",
+			"icon",
+			"bg-surface",
+			"bg-fill",
+			"text-on",
+			"gradient"
+		]
+	}
+}
